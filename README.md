@@ -3,6 +3,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tjkent88&theme=blue_green)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tjkent88&theme=blue_green)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tjkent88&theme=blue_green)
+![](https://github-readme-stats.vercel.app/api?username=tjkent88&show_icons=true&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tjkent88&theme=blue_green)
 
 <!--
